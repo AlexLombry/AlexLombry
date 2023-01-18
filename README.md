@@ -8,6 +8,6 @@
 
 <a href="https://github.com/AlexLombry"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=AlexLombry&show_icons=true" align="right" height="150" /></a>
 
-- 🔭 IT Lead at [ManoMano](https://www.manomano.fr) — working at Checkout Team.
+- 🔭 Engineering Lead at [ManoMano](https://www.manomano.fr) — Manager of Order Life Cycle.
 - 🌱 I’m currently learning near Paris
 - 💬 Feel free to contact me
